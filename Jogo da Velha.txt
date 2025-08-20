@@ -35,6 +35,6 @@ Jogo da Velha 4
 ---+---+---
  X | X | 6
 ---+---+---
- O | 8 | 9
+ O | 8 | O
 
 Próximo jogador: O
