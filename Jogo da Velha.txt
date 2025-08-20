@@ -21,10 +21,10 @@ Próximo jogador: O
 
 Jogo da Velha 3
 
- 1 | 2 | 3
+ O | 2 | 3
 ---+---+---
  4 | 5 | 6
 ---+---+---
  7 | 8 | 9
 
-Próximo jogador: O
+Próximo jogador: X
