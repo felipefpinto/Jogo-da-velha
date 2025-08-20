@@ -23,8 +23,8 @@ Jogo da Velha 3
 
  O | X | 3
 ---+---+---
- 4 | O | O
+ X | O | O
 ---+---+---
  X | O | X
 
-Próximo jogador: O
+Próximo jogador: X
