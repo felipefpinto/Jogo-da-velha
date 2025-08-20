@@ -21,7 +21,7 @@ Próximo jogador: O
 
 Jogo da Velha 3
 
- O | X | 3
+ O | X | O
 ---+---+---
  X | O | O
 ---+---+---
